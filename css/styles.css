@@ -863,8 +863,7 @@ img {
 	-moz-transition: transform var(--first-transition-timing) var(--first-transition-function);
 	-ms-transition: transform var(--first-transition-timing) var(--first-transition-function);
 	-o-transition: transform var(--first-transition-timing) var(--first-transition-function);
-	/*overflow: auto;
-	*/:;
+	overflow: auto;
 }
 
 .card-info {
