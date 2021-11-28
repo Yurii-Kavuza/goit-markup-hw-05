@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-The GoIT repository for the second homework
+# goit-markup-hw-05
+The GoIT repository for the fifth homework
